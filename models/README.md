@@ -9,13 +9,13 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 ### Detect Flaws 
 #### Version 1
 
-👉 [https://huggingface.co/HA-Siala/Mamba-v0.1](https://huggingface.co/HA-Siala/Mamba-v0.1)
+👉 [https://huggingface.co/HA-Siala/Detect-Flaws-v0.1](https://huggingface.co/HA-Siala/Detect-Flaws-v0.1)
 
 #### Version 2
 
-👉 [https://huggingface.co/HA-Siala/Mamba-v0.2](https://huggingface.co/HA-Siala/Mamba-v0.2)
+👉 [https://huggingface.co/HA-Siala/Detect-Flaws-v0.2](https://huggingface.co/HA-Siala/Detect-Flaws-v0.2)
 
-### Refactory
+### Refactoring
 
 👉 [https://huggingface.co/HA-Siala/Mamba-v0.2](https://huggingface.co/HA-Siala/Mamba-v0.2)
 
@@ -27,13 +27,13 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 ### Detect Flaws 
 #### Version 1
 
-👉 [https://huggingface.co/HA-Siala/Mamba-full-v0.1](https://huggingface.co/HA-Siala/Mamba-full-v0.1)
+👉 [https://huggingface.co/HA-Siala/Detect-Flaws-full-v0.1](https://huggingface.co/HA-Siala/Detect-Flaws-full-v0.1)
 
 #### Version 2 
 
-👉 [https://huggingface.co/HA-Siala/Mamba-full-v0.2](https://huggingface.co/HA-Siala/Mamba-full-v0.2)
+👉 [https://huggingface.co/HA-Siala/Detect-Flaws-full-v0.2](https://huggingface.co/HA-Siala/Detect-Flaws-full-v0.2)
 
-### Refactory
+### Refactoring
 
 👉 [https://huggingface.co/HA-Siala/Mamba-v0.2](https://huggingface.co/HA-Siala/Mamba-v0.2)
 
