@@ -47,7 +47,7 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 
 #### Version 1
 
-👉 [https://huggingface.co/HA-Siala/Detect-Flaws-DeepSeek-v0.1](https://huggingface.co/HA-Siala/Detect-Flaws-DeepSeek-v0.1)
+👉 [https://huggingface.co/HA-Siala/RefactoringPy-DeepSeek-v0.1](https://huggingface.co/HA-Siala/RefactoringPy-DeepSeek-v0.1)
 
 ---
 
@@ -56,6 +56,6 @@ The models are hosted on the Hugging Face Hub. Below are the available versions:
 
 #### Version 1
 
-👉 [https://huggingface.co/HA-Siala/Detect-Flaws-DeepSeek-full-v0.1](https://huggingface.co/HA-Siala/Detect-Flaws-DeepSeek-full-v0.1)
+👉 [https://huggingface.co/HA-Siala/RefactoringPy-DeepSeek-full-v0.1](https://huggingface.co/HA-Siala/RefactoringPy-DeepSeek-full-v0.1)
 
 ---
